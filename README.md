@@ -1,4 +1,12 @@
 # Golem map reduce 
+![golem-mr](https://user-images.githubusercontent.com/1272158/121239662-c599fc80-c8ae-11eb-9cfb-5c5f72c448ba.png)
+
+## Todo's
+- [X] Add core functionality
+- [X] Add mapper using Golem workers
+- [ ] Local reducer implementation
+- [ ] A mechanism to run local map reduce functions on remote golem nodes
+
 ## Intro
 The MapReduce algorithm contains two important tasks, namely Map and Reduce.
 
